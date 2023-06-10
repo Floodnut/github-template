@@ -6,7 +6,7 @@
 
 ## 업데이트 개요
 * Fix # (issue)
-* Feature # (issue)
+* Feature # (issue)  
 [여기에 PR 한줄 요약 작성, 대상 이슈번호 작성.]
 
 
